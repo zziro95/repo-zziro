@@ -10,5 +10,5 @@ import Foundation
 print("Hello, World!")
 
 func multiplication(num: Int){
-    print("구구단을 외자")
+    print("구구단을 외자!")
 }
