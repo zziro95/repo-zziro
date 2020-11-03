@@ -7,7 +7,8 @@
 
 import Foundation
 
-print("Hello, World!")
+print("Hello, World?")
+print("변경되는지 확인")
 
 func multiplication(num: Int){
     print("구구단을 외자!")
