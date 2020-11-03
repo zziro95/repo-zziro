@@ -1,4 +1,6 @@
 첫번째 커밋?
 feature-1
-feature-2
+"여기서 충돌!"
 충동부분 수동으로 해결하고 feature-2와 merge
+
+test1, 추가하는 문장
