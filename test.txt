@@ -1,2 +1,4 @@
-첫번째 커밋!
+첫번째 커밋?
 feature-1
+feature-2
+충동부분 수동으로 해결하고 feature-2와 merge
